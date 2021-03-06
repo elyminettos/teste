@@ -1,1 +1,36 @@
 já foi
+link para a instalação nos arquivos de apoio está o github
+com as instruções
+https://github.com/EdsonMSouza/T41-computacao-movel
+
+https://dartpad.dev/
+
+https://youtu.be/ZDo_f3ZibFA
+
+como usar(links) e o que é git
+
+
+https://github.com/
+        
+creat your account
+
+usar um email .gmail
+
+T41-computação-movel
+
+sincronizar pastas
+
+criar repositórioao lado do sino.... new repository
+
+nomear repositório
+
+
+baixar
+
+http://desktop.github.com/
+
+https://pastebin.com/6143uDjh
+
+icones de linguagens
+
+https://github.com/github/explore/tree/main/topics
